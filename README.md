@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <samp>
-  SDE Intern @AMZN | Software Engineer | AWS Certified Developer | Backend Developer | Android Developer | Agile Practitioner
+  SDE Intern at AMAZON | Software Engineer | AWS Certified Developer | Backend Developer | Android Developer | Agile Practitioner
   </samp>
   
 </p>
