@@ -15,7 +15,8 @@
 - 🎓 A graduate student at the University of Florida.
   
 ## 🌱 I’m currently learning
-- Competitive Coding (DSA) ([Check out my Leetcode Profile](https://leetcode.com/prateek270/))
+- TypeScript
+- Competitive Programming (DSA) ([Check out my Leetcode Profile](https://leetcode.com/prateek270/))
 - Java 🤓 (always learning Java 🌚)
 - Designing large scale distributed systems. 
 
